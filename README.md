@@ -10,7 +10,7 @@ By leveraging **Machine Learning**, the system classifies network activity as **
 
 ---
 
-## 🚀 Features
+## Features
 - 📊 **Network Traffic Analysis**: Processes the KDD Cup 99 dataset for intrusion detection.
 - 🧠 **Machine Learning Models**: Uses classification algorithms to detect threats.
 - 📈 **Data Visualization**: Insights into network anomalies.
@@ -39,7 +39,7 @@ Required Libraries:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - **Deep Learning Models** (LSTMs, CNNs) for better accuracy.
 - **Real-time Monitoring** for live network security.
 - **Automated Alerts** for immediate threat detection.
